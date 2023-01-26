@@ -1,3 +1,3 @@
 # Rakamin-Task
 Task From Rakamin Academy
-Adam Muhammad Fadhillah
+ By Adam Muhammad Fadhillah
