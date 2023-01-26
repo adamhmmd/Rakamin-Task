@@ -1,6 +1,6 @@
 // Start pembuatan array besar 
 
-var array = Array.from({ length: 100}, () => Math.floor(Math.random () *50))
+var array = Array.from({ length: 100}, () => Math.floor(Math.random () *50) + 1)
 console.log(array);
 
 // start pembuatan array ganjil genap 
